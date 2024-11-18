@@ -2,6 +2,8 @@
 
 Interactive tool for creating hierarchical visualizations from CSV data. Built with Streamlit and Plotly.
 
+[LINK TO CHART CREATOR](https://chartcreator.streamlit.app/)
+
 ## Features
 
 - Multiple chart types (Sunburst, Treemap, Icicle)
